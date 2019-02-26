@@ -1,6 +1,6 @@
 # vuex
 
-![screenshot](./images/vuex-architecture.png)
+![screenshot](https://github.com/seungchulhan80/study/blob/master/images/vuex-architecture.PNG)
 [출처](https://vuex.vuejs.org/kr/)
 
 - 컴포넌트가 액션을 일으킨다(버튼 클릭)
